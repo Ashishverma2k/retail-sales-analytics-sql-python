@@ -2,7 +2,8 @@ Retail Sales Analytics: SQL & Python
 An academic project completed as part of the Advanced Certification Program in Applied Artificial Intelligence and Machine Learning at IITM Pravartak. This repository showcases an end-to-end data analytics workflow, demonstrating competencies in relational database querying, data wrangling, feature engineering, and visual analytics using retail transaction data.
 
 🏆 Academic Evaluation
-Grade: 100 / 100This graded mini-project received a perfect score, reflecting complete analytical accuracy, methodological rigor, and effective data visualization.
+Grade: 100 / 100
+This graded mini-project received a perfect score, reflecting complete analytical accuracy, methodological rigor, and effective data visualization.
 
 ![Evaluation Score](Grade.png)
 
