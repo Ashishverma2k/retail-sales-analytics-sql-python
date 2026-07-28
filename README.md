@@ -3,11 +3,13 @@ An academic project completed as part of the Advanced Certification Program in A
 
 🏆 Academic Evaluation
 Grade: 100 / 100
+
 This graded mini-project received a perfect score, reflecting complete analytical accuracy, methodological rigor, and effective data visualization.
 
 ![Evaluation Score](Grade.png)
 
 Project Objective
+
 The primary objective of this analysis is to extract actionable business insights from disparate retail datasets (stock inventory and sales transactions). By bridging structured SQL queries with Python-based Exploratory Data Analysis (EDA), this project models real-world data science workflows to identify bestselling inventory, temporal purchasing patterns, and customer revenue distributions.
 
 Core Competencies Demonstrated
